@@ -1,5 +1,5 @@
 # Unturned 2020.3.38
-- Hash for the latest commit for this version (26 Apr 2022 or 4/26/2022): ec4662b80b585e66487c39f199621aa0e82844f0
+- Hash for the latest commit (26 Apr 2022 or 4/26/2022): ec4662b80b585e66487c39f199621aa0e82844f0
 - Branch for [mono](https://github.com/mono/mono) is unity-2020.3-mbe.
 - [Link](https://github.com/Unity-Technologies/mono/tree/ec4662b80b585e66487c39f199621aa0e82844f0) to the current Unturned mono version files.
 
