@@ -7,5 +7,5 @@
 - Clone [mono](https://github.com/mono/mono).
 - By clicking to the options of Unturned.exe you could see the version there.
 - Select branch that similar to the Unturned version from the second step.
-- Use [umpatcher](https://github.com/dnSpy/dnSpy-Unity-mono#supporting-a-new-unity-version-for-dummies) or read PE yourself to get the timestamp.
+- Use [umpatcher](https://github.com/dnSpy/dnSpy-Unity-mono#supporting-a-new-unity-version-for-dummies) or read PE yourself to get the timestamp from Unturned\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
 - The last step is find the commit in [mono](https://github.com/mono/mono) repository that almost/absolutely equals to your timestamp.
