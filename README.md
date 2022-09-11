@@ -8,4 +8,4 @@
 # Commit hashes 
 version | git hash | files | latest
 --------|----------|-------|-------
-unity-2020.3-mbe | ec4662b80b585e66487c39f199621aa0e82844f0 | https://github.com/Unity-Technologies/mono/tree/ec4662b80b585e66487c39f199621aa0e82844f0 | - [x]
+unity-2020.3-mbe | ec4662b80b585e66487c39f199621aa0e82844f0 | https://github.com/Unity-Technologies/mono/tree/ec4662b80b585e66487c39f199621aa0e82844f0 | +
