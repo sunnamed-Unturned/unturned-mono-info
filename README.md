@@ -4,8 +4,8 @@
 - [Link](https://github.com/Unity-Technologies/mono/tree/ec4662b80b585e66487c39f199621aa0e82844f0) to the current Unturned mono version files.
 
 ## How to get latest commit in Mono for the current Unturned version
-- By clicking to the options of Unturned.exe you could see the version there.
 - Clone [mono](https://github.com/mono/mono).
-- Select branch that similar to the Unturned version from the first step.
+- By clicking to the options of Unturned.exe you could see the version there.
+- Select branch that similar to the Unturned version from the second step.
 - Use [umpatcher](https://github.com/dnSpy/dnSpy-Unity-mono#supporting-a-new-unity-version-for-dummies) or read PE yourself to get the timestamp.
 - The last step is find the commit in [mono](https://github.com/mono/mono) repository that almost/absolutely equals to your timestamp.
